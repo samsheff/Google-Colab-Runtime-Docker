@@ -1,4 +1,4 @@
-# Google-Colab-Runtime-Docker
+# Google Colab Runtime Docker
 Jupyter container ready for use with Google Colab
 
 ## Usage
